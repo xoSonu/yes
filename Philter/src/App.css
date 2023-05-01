@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css2?family=Recursive:wght@500&display=swap);
+.connectWalletContainer {
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-content:center;
+    row-gap: 3%;
+}
+.connectWalletContainer img { 
+    display: flex;
+    width: 50px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2
+{
+ position: absolute;
+    top: 19rem;
+    left: 5rem;
+    color: aliceblue;
+    font-family: 'Recursive', sans-serif;
+}
+.connectWalletContainer
+{
+    background-image: url("./components/images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+span
+{
+    color: #03D3B3;
+}
+.description
+{
+  font-family: "Gilroy";
+}
+.container p
+{
+    color: rgb(156, 209, 255);
+    font-family: 'Recursive', sans-serif;
+}
+.button
+{
+    color: #161817;
+}
+.container {
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-content:center;
+    row-gap: 3%;
+}
+.container img { 
+    display: flex;
+    width: 170px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+.bg
+{
+    background-image: url("./components/images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}

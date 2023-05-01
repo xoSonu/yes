@@ -1,0 +1,14 @@
+.FlexPos
+{
+    display: flex !important;
+    align-items: self-end;
+    /* flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0; */
+}
+
+.css-k3f0g4-MuiGrid-root{
+    max-width: 96% !important;
+}

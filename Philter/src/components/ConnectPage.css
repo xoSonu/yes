@@ -1,0 +1,51 @@
+/* @import url(https://fonts.googleapis.com/css2?family=Recursive:wght@500&display=swap);
+.container {
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-content:center;
+    row-gap: 2%;
+}
+.container img { 
+    display: flex;
+    width: 170px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2
+{
+ position: absolute;
+    top: 20rem;
+    left: 4rem;
+    color: aliceblue;
+    font-family: 'Recursive', sans-serif;
+}
+.bg
+{
+    background-image: url("./images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+span
+{
+ color: #03D3B3;
+}
+.description
+{
+  font-family: "Gilroy";
+}
+.container p
+{
+    color: aliceblue;
+}
+.btn 
+{
+background-color: aquamarine;
+} */
